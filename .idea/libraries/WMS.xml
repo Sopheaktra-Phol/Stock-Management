@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="WMS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
